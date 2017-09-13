@@ -1,0 +1,14 @@
+{
+  "name": "symfony-usergroup-webpack",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Steven Weingärtner",
+  "scripts": {
+      "build": "webpack",
+      "start": "webpack-dev-server"
+  },
+  "dependencies": {
+      "webpack": "^3.5.5",
+      "webpack-dev-server": "^2.7.1"
+  }
+}
