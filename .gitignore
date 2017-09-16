@@ -102,6 +102,7 @@ typings/
 # Assets and user uploads
 /web/bundles/
 /web/uploads/
+/web/build
 
 # PHPUnit
 /app/phpunit.xml
